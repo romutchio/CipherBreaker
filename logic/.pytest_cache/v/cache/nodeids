@@ -1,0 +1,21 @@
+[
+  "test_decryptor.py::MyTestCase::test_expand_substitution",
+  "test_decryptor.py::MyTestCase::test_find_final",
+  "test_decryptor.py::MyTestCase::test_get_blank_letter_mapping",
+  "test_decryptor.py::MyTestCase::test_intersect",
+  "test_decryptor.py::MyTestCase::test_make_mask",
+  "test_decryptor.py::MyTestCase::test_make_words_list",
+  "test_decryptor.py::MyTestCase::test_make_words_masks",
+  "test_decryptor.py::MyTestCase::test_process_stat",
+  "test_decryptor.py::MyTestCase::test_remove_solved_letters",
+  "test_encryptor.py::MyTestCase::test_decode_from_file",
+  "test_encryptor.py::MyTestCase::test_decoding_en",
+  "test_encryptor.py::MyTestCase::test_decoding_rus",
+  "test_encryptor.py::MyTestCase::test_reverse",
+  "test_learning.py::MyTestCase::test_count_first",
+  "test_learning.py::MyTestCase::test_count_frequency",
+  "test_learning.py::MyTestCase::test_count_updated",
+  "test_learning.py::MyTestCase::test_default_top_words",
+  "test_learning.py::MyTestCase::test_frequency_updated",
+  "test_learning.py::MyTestCase::test_top_words"
+]
